@@ -1,6 +1,8 @@
 pipeline {
-  /*
-   * TODO: Implement pipeline stages/steps
-   *   See documentation: https://www.jenkins.io/doc/book/pipeline/syntax/#stages
-   */
+  
+    TODO: Implement pipeline stages/steps
+      Build: ./gradlew assemble
+      Test: ./gradlew test
+ 
+  
 }
